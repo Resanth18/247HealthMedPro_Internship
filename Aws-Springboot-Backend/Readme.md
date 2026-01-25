@@ -2,7 +2,7 @@
 
 > **Intern Project – Fully Working Cognito Authentication Flow**
 > Built using **Spring Boot + AWS Cognito** with secret-hash based authentication.
-> read README documents **each and every step** we implemented, why we did it, what happens in the background, and here we see how the complete login lifecycle works.
+> read README documents **each and every step** i implemented, why i did it, what happens in the background, and here we see how the complete login lifecycle works.
 
 ---
 
