@@ -1,4 +1,4 @@
-# AWS Cognito Authentication with Spring Boot (Login, Forgot Password, Reset, Logout, Revoke)
+# Aws-SprinBoot Login Application BACKEND (Login, Forgot Password, Reset, Logout, Revoke)
 
 > **Intern Project – Fully Working Cognito Authentication Flow**
 > Built using **Spring Boot + AWS Cognito** with secret-hash based authentication.
