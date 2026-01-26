@@ -1,7 +1,7 @@
 # Grouping Application (Login Flow) – End-to-End Full Stack & DevOps Project (Beginner to Production)
 
-> **Author:** Resanth SR
-> **Role:** Software Developer Intern
+> **Developed by:** Resanth SR
+> **Role:** Software Developer Intern, 247 HealthMedPro
 > **Tech Focus:** Frontend, Backend, Cloud, DevOps, Authentication, CI/CD
 
 ---
