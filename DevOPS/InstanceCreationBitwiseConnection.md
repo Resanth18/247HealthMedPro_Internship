@@ -1,4 +1,4 @@
-# Task 2 – Ubuntu EC2 Instance Creation & Bitvise SSH Connection
+# Ubuntu EC2 Instance Creation & Bitvise SSH Connection
 
 > This document explains **Task 2** in detail so that it is easy to understand even after **6+ months**.
 > It covers **why Ubuntu was chosen, how the instance was created, security group logic, key pair usage, and Bitvise SSH authentication**, including common confusions faced and how they were resolved.
