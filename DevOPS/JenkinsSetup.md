@@ -1,4 +1,4 @@
-# Task 1 – Jenkins Setup, GitHub Integration & Maven Build
+# Jenkins Setup, GitHub Integration & Maven Build
 
 > This document explains **Task 1** in full detail so that even after **6+ months**, the entire flow can be recalled without confusion.
 > It includes **URLs, navigation paths, reasons, errors faced, and fixes**.
